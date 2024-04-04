@@ -1,0 +1,8 @@
+.message
+{
+  position: absolute;
+  right: 0;
+  top:50px;
+  width: fit-content;
+  z-index: 20;
+}
